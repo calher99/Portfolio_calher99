@@ -1,23 +1,23 @@
 export const educationData = [
-    {
-        id: 1,
-        institution: 'Noakhali Government College',
-        course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
-    },
-    {
-        id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
-        course: 'Higher Secondary',
-        startYear: '2018',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
-        course: 'Secondary School',
-        startYear: '2008',
-        endYear: '2018'
-    },
-]
+  {
+    id: 1,
+    institution: "Université de Bordeaux",
+    course: "Master Enterprise Engineering",
+    startYear: "2018",
+    endYear: "2019",
+  },
+  {
+    id: 2,
+    institution: "Louisiana State University",
+    course: "Bachelor of Industrial Engineering (3rd Year)",
+    startYear: "2016",
+    endYear: "2017",
+  },
+  {
+    id: 3,
+    institution: "Universidad Carlos III",
+    course: "Bachelor of Industrial Engineering",
+    startYear: "2013",
+    endYear: "2018",
+  },
+];
