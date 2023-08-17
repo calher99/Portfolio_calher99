@@ -1,6 +1,5 @@
-import eight from "../assets/svg/projects/twelve.svg";
-import seven from "../assets/svg/projects/eleven.svg";
-import one from "../assets/svg/projects/ten.svg";
+import eight from "../assets/svg/projects/one.svg";
+
 
 export const projectsData = [
   {
@@ -21,7 +20,7 @@ export const projectsData = [
     tags: ["React", "Express", "Material Ui"],
     code: "https://github.com/calher99/Spotify-React-newSongNotify",
     demo: "https://new-song-notify.vercel.app/",
-    image: seven,
+    image: "https://i.ibb.co/dWkdzC6/Screenshot-2023-08-17-at-09-30-25.png",
   },
   {
     id: 3,
