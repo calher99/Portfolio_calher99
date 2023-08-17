@@ -6,5 +6,5 @@ export const headerData = {
   image: "https://i.ibb.co/BnrF5St/Screenshot-2023-08-16-at-17-06-43.png",
   imagebw: "https://i.ibb.co/BnrF5St/Screenshot-2023-08-16-at-17-06-43.png",
   resumePdf:
-    "https://docs.google.com/document/d/1MkkoRX98FS47CaEyeodyPzi4OkW8SH7Gv55f4MQkHV8/edit?usp=sharing",
+    "https://documentcloud.wondershare.com/clientShare/review/bpcFVoayn8Msp0rtjRcN4ReHuam9MUVhMCQv2rX7B2D2amRtIVMNhxKQw4Tlbj1afRxir-JJ7Bp9CbFuBbL2HQ",
 };
