@@ -20,7 +20,7 @@ export const projectsData = [
     tags: ["React", "Express", "Material Ui"],
     code: "https://github.com/calher99/Spotify-React-newSongNotify",
     demo: "https://new-song-notify.vercel.app/",
-    image: "https://i.ibb.co/dWkdzC6/Screenshot-2023-08-17-at-09-30-25.png",
+    image: "https://i.ibb.co/Yf8XcBm/Screenshot-2023-08-21-at-14-23-15.png",
   },
   {
     id: 3,
