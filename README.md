@@ -1,14 +1,4 @@
-# Developer Portfolio
-
-### Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! our easily customisable, user friendly website is designed to cater to developers and freelancers a like.
-
----
-
-# Demo :movie_camera:
-
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
-
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https://carlos-alonso-hernando.vercel.app/).
 
 ---
 
