@@ -9,7 +9,7 @@ export const projectsData = [
       "Surf Forecast Mobile App that connects with data from WindGuru.",
     tags: ["React Native", "Expo", "Node JS"],
     code: "https://github.com/calher99/wave-guru",
-    demo: "",
+    demo: "null",
     image: "https://i.ibb.co/KXbjytn/Screenshot-2023-08-17-at-00-00-13.png",
   },
   {

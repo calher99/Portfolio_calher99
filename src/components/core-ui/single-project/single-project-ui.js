@@ -31,7 +31,7 @@ function SingleProjectUI({
           </h2>
           <img src={image ? image : placeholder} alt={name} />
           <div className="project--showcaseBtn">
-            <a
+            {demo !== "null" && <a
               href={demo}
               target="_blank"
               rel="noreferrer"
@@ -45,7 +45,7 @@ function SingleProjectUI({
                 className={classes.icon}
                 aria-label="Demo"
               />
-            </a>
+            </a>}
             <a
               href={code}
               target="_blank"
