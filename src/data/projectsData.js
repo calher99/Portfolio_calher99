@@ -17,7 +17,7 @@ export const projectsData = [
     projectName: "Song Notify",
     projectDesc:
       "Notifies you when a new song has been added to any playlist, lets you play those songs and add them to any of your playlists.",
-    tags: ["React", "Express", "Material Ui"],
+    tags: ["React", "Express", "Material UI"],
     code: "https://github.com/calher99/Spotify-React-newSongNotify",
     demo: "https://new-song-notify.vercel.app/",
     image: "https://i.ibb.co/Yf8XcBm/Screenshot-2023-08-21-at-14-23-15.png",
