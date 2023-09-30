@@ -1,6 +1,6 @@
 export const contactsData = {
   email: "calher99@gmail.com",
-  phone: "+34 696534215",
+  phone: "+61 (0) 437057403",
   address: "Sydney, Australia",
   github: "https://github.com/calher99",
   facebook: "https://www.facebook.com/carlos.alonsohernando",
