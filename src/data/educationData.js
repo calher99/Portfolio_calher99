@@ -9,14 +9,14 @@ export const educationData = [
   {
     id: 2,
     institution: "Louisiana State University",
-    course: "Bachelor of Industrial Engineering (3rd Year)",
+    course: "Minor in Software Engineering",
     startYear: "2016",
     endYear: "2017",
   },
   {
     id: 3,
     institution: "Universidad Carlos III",
-    course: "Bachelor of Industrial Engineering",
+    course: "Bachelor of Engineering Technology",
     startYear: "2013",
     endYear: "2018",
   },
