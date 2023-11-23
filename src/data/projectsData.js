@@ -14,6 +14,16 @@ export const projectsData = [
   },
   {
     id: 2,
+    projectName: "Petit Elegance",
+    projectDesc:
+      "Ongoing freelancing project for an e-commerce app. Displayed test version with payments included.",
+    tags: ["Next.js", "Sanity", "Stripe"],
+    code: "null",
+    demo: "https://petite-elegance-test.vercel.app/",
+    image: "https://i.ibb.co/ygZb108/Screenshot-2023-11-23-at-18-28-49.png",
+  },
+  {
+    id: 3,
     projectName: "Song Notify",
     projectDesc:
       "Notifies you when a new song has been added to any playlist, lets you play those songs and add them to any of your playlists.",
@@ -23,7 +33,7 @@ export const projectsData = [
     image: "https://i.ibb.co/Yf8XcBm/Screenshot-2023-08-21-at-14-23-15.png",
   },
   {
-    id: 3,
+    id: 4,
     projectName: "Meeting Pricer",
     projectDesc: "Displays the cost of a meeting (my father needed something to convince his boss of useless meetings...).",
     tags: ["React", "CSS", "Material Ui"],
