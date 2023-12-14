@@ -1,5 +1,7 @@
 export const skillsData = [
   "Typescript",
+  "Python",
+  "Docker",
   "HTML",
   "C++",
   "C",
@@ -8,6 +10,7 @@ export const skillsData = [
   "Javascript",
   "CSS",
   "React",
+  "Django",
   "Next JS",
   "Node JS",
   "Figma",
